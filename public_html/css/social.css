@@ -1,0 +1,18 @@
+#social { width: 350px; margin:0px auto; padding:0px; color:#000; }
+
+#social .iframe { width:100%; margin:15px -30px -30px -30px; padding:15px; overflow:auto; }
+#social .well well-sm { width:100%; margin:15px -30px -30px -30px;  overflow:auto; }
+#social .well well-sm .h3 { width:100%; margin:15px -30px -30px -30px;  overflow:auto; }
+
+#content #social a { color:#000; text-decoration:none; }
+
+#content #social a:hover { color:#F0F0F0; }
+
+#social { background-color:#FFF; }
+#social iframe { background-color:#FFF; overflow:auto; }
+#social .well { background-color:#fafafa; }
+
+#social iframe { width:315px; height: 315px;}
+
+#social img { width: 30px;}
+
